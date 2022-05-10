@@ -1,0 +1,9 @@
+C:\Users\Guest1\source\repos\dxballOOP\bin\Debug\dxballOOP.exe.config
+C:\Users\Guest1\source\repos\dxballOOP\bin\Debug\dxballOOP.exe
+C:\Users\Guest1\source\repos\dxballOOP\bin\Debug\dxballOOP.pdb
+C:\Users\Guest1\source\repos\dxballOOP\obj\Debug\dxballOOP.csprojAssemblyReference.cache
+C:\Users\Guest1\source\repos\dxballOOP\obj\Debug\dxballOOP.Form1.resources
+C:\Users\Guest1\source\repos\dxballOOP\obj\Debug\dxballOOP.Properties.Resources.resources
+C:\Users\Guest1\source\repos\dxballOOP\obj\Debug\dxballOOP.csproj.GenerateResource.cache
+C:\Users\Guest1\source\repos\dxballOOP\obj\Debug\dxballOOP.exe
+C:\Users\Guest1\source\repos\dxballOOP\obj\Debug\dxballOOP.pdb
